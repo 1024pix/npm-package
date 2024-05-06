@@ -1,0 +1,17 @@
+{
+  "name": "@1024pix/npm-package",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1024pix/npm-package.git"
+  },
+  "homepage": "https://github.com/1024pix/npm-package#readme"
+}

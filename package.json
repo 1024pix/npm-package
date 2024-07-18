@@ -13,5 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/1024pix/npm-package.git"
   },
-  "homepage": "https://github.com/1024pix/npm-package#readme"
+  "homepage": "https://github.com/1024pix/npm-package#readme",
+  "publishConfig": { "access": "public" }
 }
